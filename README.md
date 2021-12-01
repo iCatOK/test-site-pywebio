@@ -28,7 +28,7 @@ Course work for Ufa State Petrolium Technological University, 2021.
 При этом не было написано ни одной строчки html-кода, библиотека скомпилировала html-страницы на основе Python-кода.
 
 ## Некоторые PyWebIO-сниппеты из реализации проекта  
-Страница регистрации на PyWebIO:
+Страница авторизации на PyWebIO:
 
 ```python
 from pywebio.output import put_buttons, put_column, put_error, put_markdown, put_text
