@@ -1,4 +1,6 @@
 # test-site-pywebio - Сайт с тестами на PyWebIO
+[![Открыть в среде](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/iCatOK/test-site-pywebio)
+
 Course work for Ufa State Petrolium Technological University, 2021.
 
 ## Описание проекта
