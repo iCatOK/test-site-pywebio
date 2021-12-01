@@ -1,7 +1,8 @@
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
-  - init: echo 'init script' # runs during prebuild
-    command: echo 'start script'
+  - name: Resolving dependencies
+    init: pip3 install -r requirements.txt
+    command: python3 main.py
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
